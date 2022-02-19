@@ -1,0 +1,10 @@
+.app-weather-description {
+  margin: 10px;
+  padding: 10px;
+  font-family: 'Roboto', arial, sans-serif;
+  
+  &__title {
+    font-size: 30px;
+    font-weight: bold;
+  }
+}
